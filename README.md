@@ -1,12 +1,12 @@
 # Suspicious Email Submitter
 
-The Suspicious Email Submitter is an extension for common web browsers and email clients that enables the user to easily submit a suspicious email with all the information necessary to a pre-configured destination for further analysis, such as a [MISP instance](https://misp-project.org) or email address.
+The Suspicious Email Submitter is an extension for common web browsers and email clients that enables the user to easily submit a suspicious email with all the information necessary to a pre-configured destination for further analysis, such as a [MISP instance](https://misp-project.org) or email address. This repo is an addon for legacy Thunderbird (XUL-based) and is **discontinued**.
 
 This project is hosted by the [Computer Incident Response Center for Civil Society](https://civicert.org) (CiviCERT), representing the needs of the at-risk communities [Rapid Response Network](https://rarenet.org) member organizations serve. The extension will be built to be easily configurable for use by other organizations and communities both within and beyond these communities.
 
 ## How to use Thunderbird Suspicious Email Submitter addon 
 
-The Suspicious Email Submitter requires configuration or [a configuration file](https://github.com/CiviCERT/suspicious-email-submitter/wiki/Configuration-Files) in order to function. This can be as basic as a destination email address (entered as `mailto:email@address.com`) in the Server URL of the configuration file.
+The Suspicious Email Submitter legacy Thunderbird addon requires configuration or [a configuration file](https://github.com/CiviCERT/suspicious-email-submitter/wiki/Configuration-Files) in order to function. This can be as basic as a destination email address (entered as `mailto:email@address.com`) in the Server URL of the configuration file.
 
 ### Globally
 
